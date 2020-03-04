@@ -2,4 +2,6 @@ C#项目中的.NetFramework的版本，必须要和电脑中的.NetFramework的�
 
 WebBrowser控件的一个属性ScriptErrorSuppressed要修改为true，否则程序运行的时候，会提示脚本无法运行。
 
+根据实际情况改变转义序列"C:\\Test\\Index.html"
+
 至于现在有一个问题就是WebBrowser控件加载网页的时候速度会很慢，暂时不知道如何解决，欢迎大家交流讨论
